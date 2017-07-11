@@ -1,0 +1,38 @@
+{
+  "name": "seashells",
+  "version": "1.0.0",
+  "description": "Seashells client written in Node",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "seashells": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roccomuso/seashells.git"
+  },
+  "engines": {
+    "node": ">=4.8.0"
+  },
+  "keywords": [
+    "seashells",
+    "pipe",
+    "console"
+  ],
+  "author": "Rocco Musolino (roccomuso)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roccomuso/seashells/issues"
+  },
+  "homepage": "https://github.com/roccomuso/seashells#readme",
+  "dependencies": {
+    "netcat": "^1.2.8",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
