@@ -18,7 +18,9 @@ Unofficial Node.js client for [Seashells.io](https://seashells.io).
 
 - Show output on both stdout and Seashells:
 
+
     $ echo "ciao" | seashells
+
 
 - Have time to see URL before full-screen command:
 
