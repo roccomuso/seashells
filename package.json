@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/roccomuso/seashells#readme",
   "dependencies": {
-    "netcat": "^1.2.8",
+    "netcat": "^1.3.5",
     "yargs": "^8.0.2"
   },
   "devDependencies": {
